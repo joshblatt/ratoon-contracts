@@ -1,7 +1,7 @@
 [features]
 seeds = false
 [programs.localnet]
-ratoon = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+ratoon = "9MxQCa5gT3msBR23kDkXNTGb4ovKuDAufUrvWQK9c2Xx"
 
 [registry]
 url = "https://anchor.projectserum.com"
